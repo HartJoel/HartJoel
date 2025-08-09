@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Joel Hart Osagie</h1>
+<h1 align="center">👋 Hi, I'm Joel Hart</h1>
 <h3 align="center">💻 Frontend Developer | React • TypeScript • Firebase</h3>
 <p align="center">
   🌱 Passionate about building beautiful, user-friendly apps  
