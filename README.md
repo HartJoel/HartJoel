@@ -20,14 +20,11 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/joel-hart-39274a2ab/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="[https://twitter.com/yourhandle](https://x.com/hartjoel01)">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
 
